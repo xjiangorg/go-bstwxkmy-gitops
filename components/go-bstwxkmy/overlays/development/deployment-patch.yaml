@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/go-bstwxkmy:8cc7445367e9a9ed001c84a15f6640616031b3e5@sha256:126a512500e2f9c549af14b3ee15c83d50fb03d97518d62efbefd1b51caaccd0
+        - image: quay.io/quay_xjiang/go-bstwxkmy:17b68a254e854a5c4578479fe77558eb9fc3fea9@sha256:e97c864bd117ec860ebd31767e6beb673986fef1c1fed2f6cecbbc8a4b5bfe9c
           name: container-image
